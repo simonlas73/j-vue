@@ -1,4 +1,4 @@
-# J Vue technical assignment
+# J-Vue technical assignment
 
 ## User functions developed:
 
@@ -14,3 +14,5 @@
 - Unit tests added by using jest and @vue/test-utils library
 - Notifications on user actions added by using @kyvg/vue3-notification library
 - No libraries or frameworks have been used for styling
+
+<a href="https://laszlosimon.eu/jumbo/">Demo</a>
