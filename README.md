@@ -1,4 +1,4 @@
-# Jumbo Vue technical assignment
+# J Vue technical assignment
 
 ## User functions developed:
 
